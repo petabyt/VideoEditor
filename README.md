@@ -1,2 +1,2 @@
 # VideoEditor
-A prototype for a working HTML5 based video editor!
+It's really nothing, just some text on a crappy video I made.
